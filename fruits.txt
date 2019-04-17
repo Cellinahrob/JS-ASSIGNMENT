@@ -1,0 +1,13 @@
+﻿var fruits=["mango","apple","orange","banana","orange"]
+undefined
+fruits
+(5) 
+["mango", "apple", "orange", "banana", "orange"]
+fruits [1]
+"apple"
+fruits[2]
+"orange"
+fruits[3]
+"banana"
+fruits[4]
+"orange"
